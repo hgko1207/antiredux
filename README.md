@@ -6,6 +6,9 @@
 
 ```bash
 yarn add styled-components
-yarn add styled-react
+yarn add styled-reset
 yarn add styled-flex-component
+yarn add typography
+yarn add react-fontawesome
+yarn add prop-types
 ```
